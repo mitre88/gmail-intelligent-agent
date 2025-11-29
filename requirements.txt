@@ -1,0 +1,13 @@
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+opensearch
+supabase
+apscheduler
+python-dotenv
+vercel
+flask
+python-dateutil
+requests
+aiohttp
+pydantic
